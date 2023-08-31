@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 int main(){
-  print("hello");
+  print("helloworld");
   return 0;
 }
 
